@@ -2,8 +2,16 @@ p {
     text-align: center;
 }
 
+#banner {
+    width: 100%;
+    height: auto;
+}
+
 h1 {
     text-align: center;
+    height: 150px;
+    border: 1px solid #000000;
+    padding: 20px;
 }
 
 body {
