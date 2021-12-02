@@ -7,11 +7,13 @@ p {
     height: auto;
 }
 
+.principal {
+    background: #CCCCCC;
+}
+
 h1 {
     text-align: center;
     height: 150px;
-    border: 1px solid #000000;
-    padding: 20px;
 }
 
 body {
@@ -24,4 +26,16 @@ body {
 
 em strong {
     color: #FF0000;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
 }
